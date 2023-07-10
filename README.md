@@ -1,3 +1,3 @@
-# 나만의 프로젝트 초기 세팅파일 (HARD)
+# 나의 프로젝트 초기 세팅파일 (HARD)
 
-React + Tailwind + 엄격한 코드스타일 규칙
+TypeScript + React + Tailwind + 테스트 코드 (Jest) + 엄격 코드스타일 규칙
